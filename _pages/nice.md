@@ -36,8 +36,6 @@ Our research is highly interdisciplinary, involving collaboration with experts f
 
 ## Open Positions
 
-We have multiple openings for PhD students, postdoctoral researchers, visiting students, research assistants, and interns:
-
 ### 1. PhD Students
 
 Several full scholarship opportunities:
@@ -55,13 +53,13 @@ Applications are accepted year-round:
 
 ### 3. Visiting Students / Research Assistants / Interns
 
-We welcome outstanding students (including qualified PhD students, master and undergraduate students, either online or in-person) to join our lab and participate in cutting-edge research projects. Priority will be given to students who can build long-term collaboration, HKU students, and those intending to apply for a PhD at HKU with me.
+We welcome outstanding students (including qualified PhD students, master and undergraduate students, either online or in-person) to join our lab and participate in cutting-edge research projects. Priority will be given to students who can build long-term collaboration, HKU students, and those intending to apply for a PhD.
 
 ## How to apply
 
 If you're interested in joining NICE Lab or would like more information, please contact me:
 - Email: duhy@hku.hk
 - Subject Line: PhD/PostDoc/RA/xx Application-University-Name
-- Attachments: CV, undergraduate transcripts, relevant publications (if any), and research statement (optional but recommended; one page discussing your research background and its relevance to my work)
+- Attachments: CV, undergraduate transcripts, relevant publications, and research statement (optional; one page discussing your research background and its relevance to my work)
 
 >Because of the high volume of emails I receive, I may not be able to respond to everyone, including some excellent applicants. However, please note that I do read every email and will reply to those that are most relevant to my research. I wish everyone the best of luck in finding the position that suits them best.

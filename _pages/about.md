@@ -29,7 +29,7 @@ Our research is primarily centered around the utilization of **Generative AI in 
 
 
 
->*I have multiple openings for PhD students, postdoctoral researchers, visiting students, and interns. Please find [more details here](https://hongyangdu.github.io/nice/).*
+>*For potential students and researchers interested in joining our lab: Please refer to [NICE](https://hongyangdu.github.io/nice/) for openings, research opportunities, and application details.*
 
 ---
 
