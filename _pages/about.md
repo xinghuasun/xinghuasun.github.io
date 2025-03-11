@@ -101,6 +101,10 @@ News
 Highlighted NI<font color=green><b>CE</b></font> Lab Work
 ======
 
+*GenAI for Network:*
+
+1. Feiran You, **Hongyang Du** *(corresponding author)*, Xiangwang Hou, Yong Ren, Kaibin Huang, ["DRESS: Diffusion Reasoning-based Reward Shaping Scheme For Intelligent Networks}"](https://arxiv.org/abs/2503.07433), 2025. <font color=green>DRESS is designed for seamless integration with any DRL framework, allowing DRESS-aided DRL (DRESSed-DRL) to enable stable and efficient DRL training even under extreme network environments.</font> [Code.](https://github.com/NICE-HKU/DRESS)
+
 *Network Large AI Model:*
 
 1. Shiyuan Zhang, Tong Li∗, Zhu Xiao, **Hongyang Du** *(corresponding author)*, Kaibin Huang “LSDM: LLM-Enhanced Spatio-temporal Diffusion Model for Service-Level Mobile Traffic Prediction”, 2025. <font color=green>We propose an LLM-Enhanced Spatio-temporal Diffusion Model (LSDM) to achieve SOTA service-level mobile traffic prediction for individual users.</font>
