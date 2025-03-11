@@ -93,6 +93,8 @@ News
 Highlighted NI<font color=green><b>CE</b></font> Lab Work
 ======
 
+**For all publications, please refer to my [google scholar](https://scholar.google.com/citations?user=QI3vo-YAAAAJ&hl=en&oi=ao).**
+
 *GenAI for Network:*
 
 1. Feiran You, **Hongyang Du** *(corresponding author)*, Xiangwang Hou, Yong Ren, Kaibin Huang, ["DRESS: Diffusion Reasoning-based Reward Shaping Scheme For Intelligent Networks"](https://arxiv.org/abs/2503.07433), submitted to IEEE, 2025. <font color=green>DRESS is designed for seamless integration with any DRL framework, allowing DRESS-aided DRL (DRESSed-DRL) to enable stable and efficient DRL training even under extreme network environments.</font> [Code.](https://github.com/NICE-HKU/DRESS)
@@ -117,10 +119,10 @@ Selected Collaborative Papers
 
 1. Minrui Xu, **Hongyang Du** *(corresponding author)*, Dusit Niyato, Jiawen Kang, Zehui Xiong, Shiwen Mao, Zhu Han et al. [“Unleashing the power of edge-cloud generative AI in mobile networks: A survey of aigc services.”](https://ieeexplore.ieee.org/document/10398474) **IEEE Communications Surveys & Tutorials**, vol. 25, pp. 213-250, 2023.
 
+---
 
 Selected First-author Papers
 ======
-**For all publications, please refer to my [google scholar](https://scholar.google.com/citations?user=QI3vo-YAAAAJ&hl=en&oi=ao).**
 
 1. **Hongyang Du**, Ruichen Zhang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Shuguang Cui, Xuemin Shen, Dong In Kim. ["User-Centric Interactive AI for Distributed Diffusion Model-based AI-Generated Content."](https://arxiv.org/abs/2311.11094), submitted to **IEEE Transactions on Pattern Analysis and Machine Intelligence** (IF: 23.6), Major Revision, 2024. <font color=green>With a distributed generative diffusion model-based AIGC framework, we propose an Interactive AI (IAI) approach, i.e., Reinforcement Learning With Large Language Models Interaction (RLLI), which utilizes LLM-empowered generative agents to replicate users interaction, providing real-time and subjective QoE feedback that reflects a spectrum of user personalities.</font>
 
