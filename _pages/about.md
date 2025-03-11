@@ -111,7 +111,7 @@ Highlighted NI<font color=green><b>CE</b></font> Lab Work
 Selected Collaborative Papers
 ======
 
-1. Xiaoqi Wang, Hongyang Du, Yuehong Gao, and Dong In Kim. ["AOLO: Analysis and Optimization For Low-Carbon Oriented Wireless Large Language Model Services"](https://arxiv.org/abs/2503.04418), submitted to IEEE, 2025.
+1. Xiaoqi Wang, **Hongyang Du**, Yuehong Gao, and Dong In Kim. ["AOLO: Analysis and Optimization For Low-Carbon Oriented Wireless Large Language Model Services"](https://arxiv.org/abs/2503.04418), submitted to IEEE, 2025.
 
 1. Changyuan Zhao, **Hongyang Du** *(corresponding author)*, Guangyuan Liu, and Dusit Niyato. ["Supervised Score-Based Modeling by Gradient Boosting."](https://arxiv.org/abs/2411.01159), **AAAI Conference on Artificial Intelligence**, 2024.
 

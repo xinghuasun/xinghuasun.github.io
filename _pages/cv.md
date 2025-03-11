@@ -49,6 +49,10 @@ author_profile: true
 
 1. **Hongyang Du**, Jiayi Zhang, Ke Guan, Dusit Niyato, Huiying Jiao, Zhiqin Wang, and Thomas Kurner, ``Performance and Optimization of Reconfigurable Intelligent Surface Aided THz Communications,'' **IEEE Transactions on Communications** *(IF: 8.3)*, vol. 70, pp. 3575-3593, May, 2022
 
+1. Jiawen Kang, **Hongyang Du**, Zonghang Li, Zehui Xiong, Shiyao Ma, Dusit Niyato, and Yuan Li. ["Personalized Saliency-Based Task-Oriented Semantic Communications: Architecture Design and Performance Analysis."](https://arxiv.org/pdf/2209.12274) **IEEE Journal on Selected Areas in Communications** (Q1, CCF A), 41, no. 1: 186-201, 2022. 
+> First Price of Outstanding Papers of Computer Academy of Guangdong (China)
+> IEEE JSAC Popular Documents December 2023
+
 1. Zhe Wang, Jiayi Zhang, **Hongyang Du**, Dusit Niyato, Shuguang Cui, Bo Ai, Mérouane Debbah, Khaled B. Letaief, and H. Vincent Poor. [``A tutorial on extremely large-scale MIMO for 6G: Fundamentals, signal processing, and applications."](https://ieeexplore.ieee.org/abstract/document/10379539) **IEEE Communications Surveys & Tutorials** (Q1), 2024
 
 # Performance Analysis
