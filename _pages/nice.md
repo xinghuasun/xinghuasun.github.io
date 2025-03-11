@@ -34,7 +34,7 @@ Our research is highly interdisciplinary, involving collaboration with experts f
 - Personal Qualities: Responsibility, reliability, and good communication skills.
 - Graduation Requirements: A PhD degree is just a ticket for your future career, so there is NO requirement for the NUMBER of papers. **Instead, the graduation requirement is for us to work together to help you find a satisfactory job, which marks the success of our collaborative journey.** 
 
-## Open Positions
+## Positions
 
 ### 1. PhD Students
 
