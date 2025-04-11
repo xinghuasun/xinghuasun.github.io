@@ -14,7 +14,7 @@ I am an assistant professor at the Department of Electrical and Electronic Engin
 <img src='/images/directions.png' width = "900"><br/>
 
 
-Our research is primarily centered around the utilization of **Generative AI in Intelligent Networks**. The key objective is to explore <font color=green>"Network for AI: Unfold Intelligence by Horizontally Scaling It Across the Network."</font>, and <font color=green>"AI for Network: Specialize Intelligence by Vertically Optimizing It for Networks and Domain Systems."</font>. This involves exploring the integration of various networking methodologies:
+Our research focuses on the integration of **Generative AI in Intelligent Networks**. We pursue two complementary directions: <font color=green>"Network for AI - Unfold Intelligence by Horizontally Scaling It Across the Network."</font>, and <font color=green>"AI for Network - Specialize Intelligence by Vertically Optimizing It for Networks and Domain Systems."</font>. These two directions converge toward a unified goal: <font color=green>"Ubiquitous Intelligence, where intelligence is woven into every interaction, every environment, and every moment."</font> Toward this goal, we explore:
 
 1. AI for Network:
    - Generative artificial intelligence and network optimization
