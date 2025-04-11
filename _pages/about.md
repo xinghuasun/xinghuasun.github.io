@@ -14,16 +14,17 @@ I am an assistant professor at the Department of Electrical and Electronic Engin
 <img src='/images/directions.png' width = "900"><br/>
 
 
-Our research is primarily centered around the utilization of **Generative AI in Intelligent Networks**. The key objective is to explore <font color=green>"how the intelligent networks can support various AI-Generated Content (AIGC) services"</font>, and <font color=green>"how generative AI can improve the intelligent network performance, security, and reliability"</font>. This involves exploring the integration of various networking methodologies:
+Our research is primarily centered around the utilization of **Generative AI in Intelligent Networks**. The key objective is to explore <font color=green>"Network for AI: Unfold Intelligence by Horizontally Scaling It Across the Network."</font>, and <font color=green>"AI for Network: Specialize Intelligence by Vertically Optimizing It for Networks and Domain Systems."</font>. This involves exploring the integration of various networking methodologies:
 
 1. AI for Network:
    - Generative artificial intelligence and network optimization
+   - Network large AI models
    - Reinforcement learning and its applications in computer networking systems
-   - AI-enabled semantic communications
    - Human-centric AI for user-centric network design
 
 2. Network for AI:
    - Distributed training and inference of large AI models
+   - Connected large language models
    - Next-generation wireless transmission technologies
    - Edge intelligence
 
