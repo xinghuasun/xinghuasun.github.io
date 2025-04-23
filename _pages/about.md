@@ -36,6 +36,13 @@ Toward this goal, we explore:
 
 News
 ======
+1. [Apr/2025] Our research on network-aided LLMs, [“Network-aided Efficient LLM Services With Denoising-inspired Prompt Compression,”](https://arxiv.org/pdf/2412.03621) has been accepted by *Science China-Information Sciences* (Q1, CCF-A, IF: 7.3). Congratulations!
+
+1. [Mar/2025] We organize a workshop ["Embracing Generative AI towards 6G RAN"](https://events.vtsociety.org/vtc2025-fall/conference-sessions/workshops-currently-available/w8-embracing-generative-ai-towards-6g-ran/) in the 2025 IEEE 102nd Vehicular Technology Conference: VTC2025-Fall in Chengdu, China October 19-22, 2025.</li>
+
+1. [Feb/2025] We organize a workshop ["Multi-modal and Generative Semantic Communications Towards Cloud-Edge-End Intelligence"](https://events.vtsociety.org/vtc2025-spring/conference-sessions/workshops-available/w19-multi-modal-and-generative-semantic-communications-towards-cloud-edge-end-intelligence/) in The 2025 IEEE 101st Vehicular Technology Conference VTC2025-Spring, Norway, 17 - 20 June 2025.</li>
+
+1. [Jan/2025] I am honored to join as an **Associate Editor** for the *Intelligent Communications: Modelling, Operation and Digital Twin* track of IEEE Communications Surveys & Tutorials (IEEE COMST). Eager to contribute to advancing research in this field.
 
 1. [Jan/2025] I am honored to join as an **Associate Editor** for the *Intelligent Communications: Modelling, Operation and Digital Twin* track of IEEE Communications Surveys & Tutorials (IEEE COMST). Eager to contribute to advancing research in this field.
 
@@ -49,7 +56,7 @@ News
 
 <details>
 <summary><strong>More News</strong></summary>
-<ol start="6">
+<ol start="10">
         <li>[Dec/2024] Our paper "Blockchain-Aided Secure Semantic Communication for AI-Generated Content in Metaverse" has been awarded the <strong>2023 Best Paper Award</strong> from IEEE Open Journal of the Computer Society by the IEEE Computer Society Publications Board.</li>
         <li>[Nov/2024] I am invited as a keynote speaker at the <em>International Conference on the Next Generation Intelligent Networks</em>, organized by Xijiao Institute for Cyber Science and Technology.</li>
         <li>[Nov/2024] Our project "Gaiety: Generative AI-empowered Edge Hub for Accessible and Immersive Meta-Home" received a <em>Honorary Mention</em> in the 2024 ComSoc Student Competition "Communications Technology Changing the World".</li>
