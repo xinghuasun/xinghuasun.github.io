@@ -113,7 +113,7 @@ Highlighted NI<font color=green><b>CE</b></font> Lab Work
 
 *Network-aided LLM Inference:*
 
-1. Feiran You, **Hongyang Du** *(corresponding author)*, Kaibin Huang, and Abbas Jamalipour. ["Network-aided Efficient Large Language Model Services With Denoising-inspired Prompt Compression."](https://arxiv.org/abs/2412.03621), major revision, SCIENCE CHINA Information Sciences, 2024. <font color=green>We propose Joint Power and Prompt Optimization (JPPO), a framework that combines Small Language Model (SLM)-based prompt compression with wireless power allocation optimization for efficient LLM services.</font>
+1. Feiran You, **Hongyang Du** *(corresponding author)*, Kaibin Huang, and Abbas Jamalipour. ["Network-aided Efficient Large Language Model Services With Denoising-inspired Prompt Compression."](https://arxiv.org/abs/2412.03621), SCIENCE CHINA Information Sciences, 2025. <font color=green>We propose Joint Power and Prompt Optimization (JPPO), a framework that combines Small Language Model (SLM)-based prompt compression with wireless power allocation optimization for efficient LLM services.</font>
 
 ---
 
@@ -132,7 +132,7 @@ Selected Collaborative Papers
 Selected First-author Papers
 ======
 
-1. **Hongyang Du**, Ruichen Zhang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Shuguang Cui, Xuemin Shen, Dong In Kim. ["User-Centric Interactive AI for Distributed Diffusion Model-based AI-Generated Content."](https://arxiv.org/abs/2311.11094), submitted to **IEEE Transactions on Pattern Analysis and Machine Intelligence** (IF: 23.6), Major Revision, 2024. <font color=green>With a distributed generative diffusion model-based AIGC framework, we propose an Interactive AI (IAI) approach, i.e., Reinforcement Learning With Large Language Models Interaction (RLLI), which utilizes LLM-empowered generative agents to replicate users interaction, providing real-time and subjective QoE feedback that reflects a spectrum of user personalities.</font>
+1. **Hongyang Du**, Ruichen Zhang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Shuguang Cui, Xuemin Shen, Dong In Kim. ["Reinforcement Learning With LLMs Interaction For Distributed Diffusion Model Services"](https://arxiv.org/abs/2311.11094), submitted to **IEEE Transactions on Pattern Analysis and Machine Intelligence** (IF: 23.6), Minor Revision, 2025. <font color=green>With a distributed generative diffusion model-based AIGC framework, we propose an Interactive AI (IAI) approach, i.e., Reinforcement Learning With Large Language Models Interaction (RLLI), which utilizes LLM-empowered generative agents to replicate users interaction, providing real-time and subjective QoE feedback that reflects a spectrum of user personalities.</font>
 
 1. **Hongyang Du**, Jiacheng Wang, Dusit Niyato, Jiawen Kang, Zehui Xiong, and Dong In Kim, ["AI-Generated Incentive Mechanism and Full-Duplex Semantic Communications for Information Sharing,"](https://arxiv.org/abs/2303.01896) **IEEE Journal on Selected Areas in Communications** (Q1, CCF A), Accepted, 2023. <font color=green>We analyze the performance of full-duplex D2D communications. To facilitate semantic information sharing among users, we design a contract theoretic AI-generated incentive mechanism that generates the optimal contract design, outperforming two DRL algorithms.</font> [Code](https://github.com/HongyangDu/SemSharing).
 <br/> <font color="#CC5500"><i>&bull; Selected by IEEE JSAC Popular Documents - October 2023 <i><font>
