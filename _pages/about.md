@@ -38,9 +38,9 @@ News
 ======
 1. [Apr/2025] Our research on network-aided LLMs, [“Network-aided Efficient LLM Services With Denoising-inspired Prompt Compression,”](https://arxiv.org/pdf/2412.03621) has been accepted by *Science China-Information Sciences* (Q1, CCF-A, IF: 7.3). Congratulations!
 
-1. [Mar/2025] We organize a workshop ["Embracing Generative AI towards 6G RAN"](https://events.vtsociety.org/vtc2025-fall/conference-sessions/workshops-currently-available/w8-embracing-generative-ai-towards-6g-ran/) in the 2025 IEEE 102nd Vehicular Technology Conference: VTC2025-Fall in Chengdu, China October 19-22, 2025.</li>
+1. [Mar/2025] We organize a workshop ["Embracing Generative AI towards 6G RAN"](https://events.vtsociety.org/vtc2025-fall/conference-sessions/workshops-currently-available/w8-embracing-generative-ai-towards-6g-ran/) in the 2025 IEEE 102nd Vehicular Technology Conference **VTC2025-Fall** in Chengdu, China October 19-22, 2025.
 
-1. [Feb/2025] We organize a workshop ["Multi-modal and Generative Semantic Communications Towards Cloud-Edge-End Intelligence"](https://events.vtsociety.org/vtc2025-spring/conference-sessions/workshops-available/w19-multi-modal-and-generative-semantic-communications-towards-cloud-edge-end-intelligence/) in The 2025 IEEE 101st Vehicular Technology Conference VTC2025-Spring, Norway, 17 - 20 June 2025.</li>
+1. [Feb/2025] We organize a workshop ["Multi-modal and Generative Semantic Communications Towards Cloud-Edge-End Intelligence"](https://events.vtsociety.org/vtc2025-spring/conference-sessions/workshops-available/w19-multi-modal-and-generative-semantic-communications-towards-cloud-edge-end-intelligence/) in the 2025 IEEE 101st Vehicular Technology Conference **VTC2025-Spring**, Norway, 17 - 20 June 2025.
 
 1. [Jan/2025] I am honored to join as an **Associate Editor** for the *Intelligent Communications: Modelling, Operation and Digital Twin* track of IEEE Communications Surveys & Tutorials (IEEE COMST). Eager to contribute to advancing research in this field.
 
