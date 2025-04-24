@@ -44,8 +44,6 @@ News
 
 1. [Jan/2025] I am honored to join as an **Associate Editor** for the *Intelligent Communications: Modelling, Operation and Digital Twin* track of IEEE Communications Surveys & Tutorials (IEEE COMST). Eager to contribute to advancing research in this field.
 
-1. [Jan/2025] I am honored to join as an **Associate Editor** for the *Intelligent Communications: Modelling, Operation and Digital Twin* track of IEEE Communications Surveys & Tutorials (IEEE COMST). Eager to contribute to advancing research in this field.
-
 1. [Jan/2025] As the corresponding author, I'm happy that our paper *"Supervised Score-Based Modeling by Gradient Boosting"* has been accepted to the **Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI-25)**. See you in Philadelphia, Pennsylvania!
 
 1. [Jan/2025] I am honored to join as an **Associate Editor** for the *Big Data and Machine Learning for Communications* track of IEEE Open Journal of the Communications Society (IEEE OJ-COMS). Looking forward to serving the research community in this role.
