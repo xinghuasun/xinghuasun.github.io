@@ -36,7 +36,7 @@ Toward this goal, we explore:
 
 News
 ======
-1. [Apr/2025] Our research on network-aided LLMs, [“Network-aided Efficient LLM Services With Denoising-inspired Prompt Compression,”](https://arxiv.org/pdf/2412.03621) has been accepted by *Science China-Information Sciences* (Q1, CCF-A, IF: 7.3). Congratulations!
+1. [Apr/2025] I am invited as the lecturer of **Generative Diffusion Model with Its Applications** for the *Communication-Specific Large AI Models Master Class* organized by [Chaspark](https://www.chaspark.com/).
 
 1. [Mar/2025] We organize a workshop ["Embracing Generative AI towards 6G RAN"](https://events.vtsociety.org/vtc2025-fall/conference-sessions/workshops-currently-available/w8-embracing-generative-ai-towards-6g-ran/) in the 2025 IEEE 102nd Vehicular Technology Conference **VTC2025-Fall** in Chengdu, China October 19-22, 2025.
 
@@ -111,7 +111,7 @@ Highlighted NI<font color=green><b>CE</b></font> Lab Work
 
 *Network-aided LLM Inference:*
 
-1. Feiran You, **Hongyang Du** *(corresponding author)*, Kaibin Huang, and Abbas Jamalipour. ["Network-aided Efficient Large Language Model Services With Denoising-inspired Prompt Compression."](https://arxiv.org/abs/2412.03621), SCIENCE CHINA Information Sciences, 2025. <font color=green>We propose Joint Power and Prompt Optimization (JPPO), a framework that combines Small Language Model (SLM)-based prompt compression with wireless power allocation optimization for efficient LLM services.</font>
+1. Feiran You, **Hongyang Du** *(corresponding author)*, Kaibin Huang, and Abbas Jamalipour. ["Network-aided Efficient Large Language Model Services With Denoising-inspired Prompt Compression."](https://arxiv.org/abs/2412.03621), submitted, 2025. <font color=green>We propose Joint Power and Prompt Optimization (JPPO), a framework that combines Small Language Model (SLM)-based prompt compression with wireless power allocation optimization for efficient LLM services.</font>
 
 ---
 
