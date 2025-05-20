@@ -103,13 +103,40 @@ Highlighted NI<font color=green><b>CE</b></font> Lab Work
 
 *GenAI for Network:*
 
-1. Feiran You, **Hongyang Du** *(corresponding author)*, ["ReaCritic: Large Reasoning Transformer-based DRL Critic-model Scaling For Heterogeneous Networks"](https://arxiv.org/abs/2505.10992), submitted to IEEE, 2025. <font color=green>ReaCritic is a large reasoning transformer-based DRL critic-model scaling scheme that brings LLMs' reasoning ability into DRL, performing horizontal reasoning over parallel state-action inputs and vertical reasoning through deep transformer stacks.</font>
-<br/> <font color="#CC5500">&bull; 🤔 ReaCritic: <i>"Learning without thought is labor lost. 学而不思则罔。"</i></font>
-<img src="./images/F0.png" width="600px">
+<table>
+  <tr>
+    <td width="220">
+      <a href="https://arxiv.org/abs/2505.10992">
+        <img src="./images/F0.png" width="200px">
+      </a>
+    </td>
+    <td>
+      <b>ReaCritic: Large Reasoning Transformer-based DRL Critic-model Scaling For Heterogeneous Networks</b><br>
+      Feiran You, <b>Hongyang Du</b> <em>(corresponding author)</em>, submitted to IEEE, 2025.<br>
+      <img src="accessories/gold_medal.png" width="15"> <span style="color:green">ReaCritic is a large reasoning transformer-based DRL critic-model scaling scheme that brings LLMs' reasoning ability into DRL, performing horizontal reasoning over parallel state-action inputs and vertical reasoning through deep transformer stacks.</span><br>
+      <span style="color:#CC5500">🤔 <b>ReaCritic:</b> <i>"Learning without thought is labor lost. 学而不思则罔。"</i></span><br>
+      <img src="accessories/pdf.jpg" width="12"> <a href="https://arxiv.org/pdf/2505.10992.pdf">PDF</a>
+    </td>
+  </tr>
+</table>
 
-1. Feiran You, **Hongyang Du** *(corresponding author)*, Xiangwang Hou, Yong Ren, Kaibin Huang, ["DRESS: Diffusion Reasoning-based Reward Shaping Scheme For Intelligent Networks"](https://arxiv.org/abs/2503.07433), submitted to IEEE, 2025. <font color=green>DRESS is designed for seamless integration with any DRL framework, allowing DRESS-aided DRL (DRESSed-DRL) to enable stable and efficient DRL training even under extreme network environments.</font> [Code.](https://github.com/NICE-HKU/DRESS)
-<br/> <font color="#CC5500">&bull; 🥼 DRESS: <i>"If your DRL's a mess, DRESS it!"</i></font>
-<img src="./images/frameworkdress.jpg" width="600px">
+<table>
+  <tr>
+    <td width="220">
+      <a href="https://arxiv.org/abs/2503.07433">
+        <img src="./images/frameworkdress.jpg" width="200px">
+      </a>
+    </td>
+    <td>
+      <b>DRESS: Diffusion Reasoning-based Reward Shaping Scheme For Intelligent Networks</b><br>
+      Feiran You, <b>Hongyang Du</b> <em>(corresponding author)</em>, Xiangwang Hou, Yong Ren, Kaibin Huang, submitted to IEEE, 2025.<br>
+      <img src="accessories/gold_medal.png" width="15"> <span style="color:green">DRESS is designed for seamless integration with any DRL framework, allowing DRESS-aided DRL (DRESSed-DRL) to enable stable and efficient DRL training even under extreme network environments.</span><br>
+      <span style="color:#CC5500">🥼 <b>DRESS:</b> <i>"If your DRL's a mess, DRESS it!"</i></span><br>
+      <img src="accessories/pdf.jpg" width="12"> <a href="https://arxiv.org/pdf/2503.07433.pdf">PDF</a> |
+      <img src="accessories/github_icon.jpg" width="15"> <a href="https://github.com/NICE-HKU/DRESS">Code</a>
+    </td>
+  </tr>
+</table>
 
 *Network Large AI Model:*
 
