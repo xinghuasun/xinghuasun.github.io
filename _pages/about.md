@@ -104,11 +104,11 @@ Highlighted NI<font color=green><b>CE</b></font> Lab Work
 *GenAI for Network:*
 
 1. Feiran You, **Hongyang Du** *(corresponding author)*, ["ReaCritic: Large Reasoning Transformer-based DRL Critic-model Scaling For Heterogeneous Networks"](https://arxiv.org/abs/2505.10992), submitted to IEEE, 2025. <font color=green>ReaCritic is a large reasoning transformer-based DRL critic-model scaling scheme that brings LLMs' reasoning ability into DRL, performing horizontal reasoning over parallel state-action inputs and vertical reasoning through deep transformer stacks.</font>
-<br/> <font color="#CC5500"><i>&bull; 🤔 ReaCritic: "Learning without thought is labor lost. 学而不思则罔。" <i><font>
+<br/> <font color="#CC5500">&bull; 🤔 ReaCritic: <i>"Learning without thought is labor lost. 学而不思则罔。"</i></font>
 <img src="./images/F0.png" width="600px">
 
 1. Feiran You, **Hongyang Du** *(corresponding author)*, Xiangwang Hou, Yong Ren, Kaibin Huang, ["DRESS: Diffusion Reasoning-based Reward Shaping Scheme For Intelligent Networks"](https://arxiv.org/abs/2503.07433), submitted to IEEE, 2025. <font color=green>DRESS is designed for seamless integration with any DRL framework, allowing DRESS-aided DRL (DRESSed-DRL) to enable stable and efficient DRL training even under extreme network environments.</font> [Code.](https://github.com/NICE-HKU/DRESS)
-<br/> <font color="#CC5500"><i>&bull; 🥼 DRESS: "If your DRL's a mess, DRESS it!" <i><font>
+<br/> <font color="#CC5500">&bull; 🥼 DRESS: <i>"If your DRL's a mess, DRESS it!"</i></font>
 <img src="./images/frameworkdress.jpg" width="600px">
 
 *Network Large AI Model:*
@@ -141,14 +141,14 @@ Selected First-author Papers
 1. **Hongyang Du**, Ruichen Zhang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Shuguang Cui, Xuemin Shen, Dong In Kim. ["Reinforcement Learning With LLMs Interaction For Distributed Diffusion Model Services"](https://arxiv.org/abs/2311.11094), submitted to **IEEE Transactions on Pattern Analysis and Machine Intelligence** (IF: 23.6), Minor Revision, 2025. <font color=green>With a distributed generative diffusion model-based AIGC framework, we propose an Interactive AI (IAI) approach, i.e., Reinforcement Learning With Large Language Models Interaction (RLLI), which utilizes LLM-empowered generative agents to replicate users interaction, providing real-time and subjective QoE feedback that reflects a spectrum of user personalities.</font>
 
 1. **Hongyang Du**, Jiacheng Wang, Dusit Niyato, Jiawen Kang, Zehui Xiong, and Dong In Kim, ["AI-Generated Incentive Mechanism and Full-Duplex Semantic Communications for Information Sharing,"](https://arxiv.org/abs/2303.01896) **IEEE Journal on Selected Areas in Communications** (Q1, CCF A), Accepted, 2023. <font color=green>We analyze the performance of full-duplex D2D communications. To facilitate semantic information sharing among users, we design a contract theoretic AI-generated incentive mechanism that generates the optimal contract design, outperforming two DRL algorithms.</font> [Code](https://github.com/HongyangDu/SemSharing).
-<br/> <font color="#CC5500"><i>&bull; Selected by IEEE JSAC Popular Documents - October 2023 <i><font>
+<br/> <font color="#CC5500"><i>&bull; Selected by IEEE JSAC Popular Documents - October 2023 </i></font>
 
 1. **Hongyang Du**, Jiacheng Wang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Junshan Zhang, and Xuemin (Sherman) Shen, ["Semantic Communications for Wireless Sensing: RIS-aided Encoding and Self-supervised Decoding,"](https://arxiv.org/abs/2211.12727) **IEEE Journal on Selected Areas in Communications** (Q1, CCF A), Accepted, 2023. <font color=green>We propose the inverse semantic communications as a new paradigm. Using the sensing data collected from real-world, we show that our framework can reduce the data volume by 95% compared to that before encoding, without affecting the accomplishment of sensing tasks.</font> [Code](https://github.com/HongyangDu/SemSensing).
-<br/> <font color="#CC5500"><i>&bull; Selected by IEEE JSAC Popular Documents - August 2023 <i><font>
+<br/> <font color="#CC5500"><i>&bull; Selected by IEEE JSAC Popular Documents - August 2023 </i></font>
 
 1. **Hongyang Du**, Jiazhen Liu, Dusit Niyato, Jiawen Kang, Zehui Xiong, Junshan Zhang, and Dong In Kim, ["Attention-aware Resource Allocation and QoE Analysis for Metaverse xURLLC Services,"](https://arxiv.org/abs/2208.05438) **IEEE Journal on Selected Areas in Communications** (Q1, CCF A), Accepted, 2023. <font color=green>We propose a novel metric named Meta-Immersion that incorporates both the objective KPIs and subjective feelings of Metaverse users. We develop an attention-aware rendering capacity allocation scheme to improve QoE in xURLLC.</font> [Code](https://github.com/HongyangDu/AttentionQoE).
-<br/> <font color="#CC5500"><i>&bull; Selected by IEEE JSAC Popular Documents - July 2023 <i><font>
-<br/> <font color="#CC5500"><i>&bull; First Price of Outstanding Papers of Computer Academy of Guangdong (China)<i><font>
+<br/> <font color="#CC5500"><i>&bull; Selected by IEEE JSAC Popular Documents - July 2023 </i></font>
+<br/> <font color="#CC5500"><i>&bull; First Price of Outstanding Papers of Computer Academy of Guangdong (China)</i></font>
 
 1. **Hongyang Du**, Ruichen Zhang, Yinqiu Liu, Jiacheng Wang, Yijing Lin, Zonghang Li, Dusit Niyato, Jiawen Kang, Zehui Xiong, Shuguang Cui, Bo Ai, Haibo Zhou, and Dong In Kim. ["Enhancing deep reinforcement learning: A tutorial on generative diffusion models in network optimization."](https://arxiv.org/abs/2308.05384), **IEEE Communications Surveys & Tutorials** (IF: 34.4), accepted, 2024. <font color=green>This paper serves as a comprehensive tutorial on applying GDMs in network optimization tasks, with a series of case studies, showing the integration of GDMs with Deep Reinforcement Learning (DRL), incentive mechanism design, Semantic Communications (SemCom), Internet of Vehicles (IoV) networks, etc.</font> [Code](https://github.com/HongyangDu/GDMOPT).
 
@@ -161,38 +161,38 @@ Selected First-author Papers
 Awards
 ======
 1. **IEEE ComSoc Best Young Professional Award for Best Early Career Researcher**, 2024 
-<br/> <font color="#CC5500"><i>&bull; IEEE Communications Society<i><font>
-<br/> <font color="#CC5500"><i>&bull; Only six person is selected globally each year; only one person for “Best Early Career Researcher” category<i><font>
+<br/> <font color="#CC5500"><i>&bull; IEEE Communications Society</i></font>
+<br/> <font color="#CC5500"><i>&bull; Only six person is selected globally each year; only one person for “Best Early Career Researcher” category</i></font>
 <br/><img src='/images/ber.jpg' width= "500"> 
 1. **IEEE Daniel E. Nobel Fellowship Award**, 2022 
-<br/> <font color="#CC5500"><i>&bull; <b>IEEE society-level</b> award from IEEE Vehicular Technology Society<i><font>
-<br/> <font color="#CC5500"><i>&bull; Only one person is selected globally each year<i><font>
+<br/> <font color="#CC5500"><i>&bull; <b>IEEE society-level</b> award from IEEE Vehicular Technology Society</i></font>
+<br/> <font color="#CC5500"><i>&bull; Only one person is selected globally each year</i></font>
 <br/><img src='/images/VTS.jpg' width= "500"> 
 1. **IEEE Signal Processing Society Scholarship**, 2023 
-<br/> <font color="#CC5500"><i>&bull; <b>IEEE society-level</b> award from IEEE Signal Processing Society<i><font>
+<br/> <font color="#CC5500"><i>&bull; <b>IEEE society-level</b> award from IEEE Signal Processing Society</i></font>
 <br/><img src='/images/sps.png' width= "500"> 
 1. **Singapore Data Science Consortium (SDSC) Dissertation Research Fellowship**, 2023
-<br/> <font color="#CC5500"><i>&bull; Only ten students are selected in Singapore each year<i><font>
+<br/> <font color="#CC5500"><i>&bull; Only ten students are selected in Singapore each year</i></font>
 <br/><img src='/images/sdscaward.jpg' width= "500"> 
 1. **Chinese Government Award for Outstanding Students Abroad**, 2022 
-<br/> <font color="#CC5500"><i>&bull; <b>National-level</b> award from China<i><font>
-<br/> <font color="#CC5500"><i>&bull; Prestigious Award presented to 650 Ph.D. students worldwide each year<i><font>
+<br/> <font color="#CC5500"><i>&bull; <b>National-level</b> award from China</i></font>
+<br/> <font color="#CC5500"><i>&bull; Prestigious Award presented to 650 Ph.D. students worldwide each year</i></font>
 1. **NTU Graduate College's Research Excellence Award**, 2024
-<br/> <font color="#CC5500"><i>&bull; Only one student is selected each year.<i><font>
+<br/> <font color="#CC5500"><i>&bull; Only one student is selected each year.</i></font>
 <br/><img src='/images/Award/gcresearch.png' width= "500"> 
 1. **Best Paper Award** of IEEE Open Journal of the Computer Society
 <br/><img src='/images/bpojcs.png' width= "500"> 
 1. **Best Paper Award** in the IWCMC 2024 Conference Ayia Napa, Cyprus, May 27th – 31st 2024
 <br/><img src='/images/Award/iwcmcbp.png' width= "500"> 
 1. **First Prize** in the 2024 ComSoc Social Network Technical Committee (SNTC) Student Competition 
-<br/> <font color="#CC5500"><i>&bull; Project leader of ``Enhancing Metaverse Social Networking via User-Centric AI-Driven Eyewear''<i><font>
+<br/> <font color="#CC5500"><i>&bull; Project leader of ``Enhancing Metaverse Social Networking via User-Centric AI-Driven Eyewear''</i></font>
 <br/><img src='/images/Award/student.jpg' width= "500"> 
 1. **Second Prize** in the 2024 ComSoc Social Network Technical Committee (SNTC) Student Competition 
 1. **Honorary Mention** in the 2023 ComSoc Student Competition ``Communications Technology Changing the World.'', 2023 
-<br/> <font color="#CC5500"><i>&bull; <b>IEEE society-level</b> award from IEEE Communications Society<i><font>
+<br/> <font color="#CC5500"><i>&bull; <b>IEEE society-level</b> award from IEEE Communications Society</i></font>
 <br/> <img src='/images/stucom.png' width= "500">
 1. **Honorary Mention** in the 2024 ComSoc Student Competition ``Communications Technology Changing the World.'', 2024 
-<br/> <font color="#CC5500"><i>&bull; <b>IEEE society-level</b> award from IEEE Communications Society, <b>Team Advisor</b><i><font>
+<br/> <font color="#CC5500"><i>&bull; <b>IEEE society-level</b> award from IEEE Communications Society, <b>Team Advisor</b></i></font>
 <br/> <img src='/images/2024stuw.png' width= "500">
 1. **Exemplary Reviewer** of the IEEE TRANSACTIONS ON COMMUNICATIONS, 2021 
 <br/><img src='/images/ReTCOM.jpg' width= "500">
@@ -200,9 +200,9 @@ Awards
 <br/><img src='/images/communlett.jpg' width= "500">
 1. **Research Scholarship**, NTU, 2021-2025
 1. **National Scholarship**, Ministry of Education of China, 2020 
-<br/> <font color="#CC5500"><i>&bull; <b>National-level</b> award from China<i><font>
+<br/> <font color="#CC5500"><i>&bull; <b>National-level</b> award from China</i></font>
 1. **National Scholarship**, Ministry of Education of China, 2018 
-<br/> <font color="#CC5500"><i>&bull; <b>National-level</b> award from China<i><font>
+<br/> <font color="#CC5500"><i>&bull; <b>National-level</b> award from China</i></font>
 
 ---
 
