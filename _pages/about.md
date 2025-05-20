@@ -103,7 +103,14 @@ Highlighted NI<font color=green><b>CE</b></font> Lab Work
 
 *GenAI for Network:*
 
+1. Feiran You, **Hongyang Du** *(corresponding author)*, ["ReaCritic: Large Reasoning Transformer-based DRL Critic-model Scaling For Heterogeneous Networks"](https://arxiv.org/abs/2505.10992), submitted to IEEE, 2025. <font color=green>ReaCritic is a large reasoning transformer-based DRL critic-model scaling scheme that brings LLMs' reasoning ability into DRL, performing horizontal reasoning over parallel state-action inputs and vertical reasoning through deep transformer stacks.</font>
+
+<br/> <font color="#CC5500"><i>&bull; "Learning without thought is labor lost. 学而不思则罔。" <i><font>
+
+
 1. Feiran You, **Hongyang Du** *(corresponding author)*, Xiangwang Hou, Yong Ren, Kaibin Huang, ["DRESS: Diffusion Reasoning-based Reward Shaping Scheme For Intelligent Networks"](https://arxiv.org/abs/2503.07433), submitted to IEEE, 2025. <font color=green>DRESS is designed for seamless integration with any DRL framework, allowing DRESS-aided DRL (DRESSed-DRL) to enable stable and efficient DRL training even under extreme network environments.</font> [Code.](https://github.com/NICE-HKU/DRESS)
+
+<br/> <font color="#CC5500"><i>&bull; "If your DRL's a mess, DRESS it!" <i><font>
 
 *Network Large AI Model:*
 
