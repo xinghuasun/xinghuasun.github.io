@@ -107,7 +107,7 @@ Highlighted NI<font color=green><b>CE</b></font> Lab Work
   <tr>
     <td width="280">
       <a href="https://arxiv.org/abs/2505.10992">
-        <img src="./images/F0.png" width="200px">
+        <img src="./images/F0.png" width="270px">
       </a>
     </td>
     <td>
@@ -124,7 +124,7 @@ Highlighted NI<font color=green><b>CE</b></font> Lab Work
   <tr>
     <td width="280">
       <a href="https://arxiv.org/abs/2503.07433">
-        <img src="./images/frameworkdress.jpg" width="200px">
+        <img src="./images/frameworkdress.jpg" width="270px">
       </a>
     </td>
     <td>
