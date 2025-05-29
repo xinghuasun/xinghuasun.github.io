@@ -1,0 +1,20 @@
+- title: ReaCritic: Large Reasoning Transformer-based DRL Critic-model Scaling For Heterogeneous Networks
+  authors: Feiran You, Hongyang Du*
+  venue: submitted to IEEE, 2025
+  arxiv: https://arxiv.org/abs/2505.10992
+  pdf: https://arxiv.org/pdf/2505.10992.pdf
+  image: ./images/F0.png
+  summary: ReaCritic is a large reasoning transformer-based DRL critic-model scaling scheme that brings LLMs' reasoning ability into DRL, performing horizontal reasoning over parallel state-action inputs and vertical reasoning through deep transformer stacks.
+  tag: 🤔 ReaCritic: "Learning without thought is labor lost. 学而不思则罔。"
+  category: GenAI for Network
+
+- title: DRESS: Diffusion Reasoning-based Reward Shaping Scheme For Intelligent Networks
+  authors: Feiran You, Hongyang Du*, Xiangwang Hou, Yong Ren, Kaibin Huang
+  venue: submitted to IEEE, 2025
+  arxiv: https://arxiv.org/abs/2503.07433
+  pdf: https://arxiv.org/pdf/2503.07433.pdf
+  code: https://github.com/NICE-HKU/DRESS
+  image: ./images/frameworkdress.jpg
+  summary: DRESS is designed for seamless integration with any DRL framework, allowing DRESS-aided DRL (DRESSed-DRL) to enable stable and efficient DRL training even under extreme network environments.
+  tag: 🥼 DRESS: "If your DRL's a mess, DRESS it!"
+  category: GenAI for Network

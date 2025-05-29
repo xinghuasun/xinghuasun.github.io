@@ -103,40 +103,29 @@ Highlighted NI<font color=green><b>CE</b></font> Lab Work
 
 *GenAI for Network:*
 
+{% assign papers_genai = site.data.papers | where: "category", "GenAI for Network" %}
+{% for paper in papers_genai %}
 <table>
   <tr>
     <td width="280">
-      <a href="https://arxiv.org/abs/2505.10992">
-        <img src="./images/F0.png" width="270px">
+      <a href="{{ paper.arxiv }}">
+        <img src="{{ paper.image }}" width="270px">
       </a>
     </td>
     <td>
-      <b>ReaCritic: Large Reasoning Transformer-based DRL Critic-model Scaling For Heterogeneous Networks</b><br>
-      Feiran You, <b>Hongyang Du*</b>, submitted to IEEE, 2025.<br>
-	  <span style="color:#CC5500">🤔 <b>ReaCritic:</b> <i>"Learning without thought is labor lost. 学而不思则罔。"</i></span><br>
-	  <span style="color:green">ReaCritic is a large reasoning transformer-based DRL critic-model scaling scheme that brings LLMs' reasoning ability into DRL, performing horizontal reasoning over parallel state-action inputs and vertical reasoning through deep transformer stacks.</span><br>
-      <img src="accessories/pdf.jpg" width="12"> <a href="https://arxiv.org/pdf/2505.10992.pdf">PDF</a>
+      <b>{{ forloop.index }}. {{ paper.title }}</b><br>
+      {{ paper.authors }}<br>
+      {{ paper.venue }}<br>
+      <span style="color:#CC5500"><b>{{ paper.tag | split: ":" | first }}</b>: <i>{{ paper.tag | split: ":" | last | strip }}</i></span><br>
+      <span style="color:green">{{ paper.summary }}</span><br>
+      <img src="accessories/pdf.jpg" width="12"> <a href="{{ paper.pdf }}">PDF</a>
+      {% if paper.code %}
+      | <img src="accessories/github_icon.jpg" width="15"> <a href="{{ paper.code }}">Code</a>
+      {% endif %}
     </td>
   </tr>
 </table>
-
-<table>
-  <tr>
-    <td width="280">
-      <a href="https://arxiv.org/abs/2503.07433">
-        <img src="./images/frameworkdress.jpg" width="270px">
-      </a>
-    </td>
-    <td>
-      <b>DRESS: Diffusion Reasoning-based Reward Shaping Scheme For Intelligent Networks</b><br>
-      Feiran You, <b>Hongyang Du*</b>, Xiangwang Hou, Yong Ren, Kaibin Huang, submitted to IEEE, 2025.<br>
-	  <span style="color:#CC5500">🥼 <b>DRESS:</b> <i>"If your DRL's a mess, DRESS it!"</i></span><br>
-      <span style="color:green">DRESS is designed for seamless integration with any DRL framework, allowing DRESS-aided DRL (DRESSed-DRL) to enable stable and efficient DRL training even under extreme network environments.</span><br>
-      <img src="accessories/pdf.jpg" width="12"> <a href="https://arxiv.org/pdf/2503.07433.pdf">PDF</a> |
-      <img src="accessories/github_icon.jpg" width="15"> <a href="https://github.com/NICE-HKU/DRESS">Code</a>
-    </td>
-  </tr>
-</table>
+{% endfor %}
 
 *Network Large AI Model:*
 
