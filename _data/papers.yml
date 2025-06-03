@@ -26,6 +26,6 @@
   pdf: ""
   image: "./images/JPPOPLUS.png"
   summary: "JPPO++ is a framework that jointly optimizes prompt compression and wireless transmission power for mobile LLM services. A denoising-inspired compression scheme performs iterative prompt refinement by progressively removing less informative tokens."
-  tag: "⚙ JPPO++: \"Less to send, more to think.\""
+  tag: "⚙️ JPPO++: \"Less to send, more to think.\""
   category: "Network-aided LLM"
   
