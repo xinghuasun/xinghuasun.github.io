@@ -29,11 +29,3 @@
   tag: "⚙ JPPO++: \"Less to send, more to think.\""
   category: "Network-aided LLM"
   
-- title: "LSDM: LLM-Enhanced Spatio-temporal Diffusion Model for Service-Level Mobile Traffic Prediction"
-authors: "Shiyuan Zhang, Tong Li∗, Zhu Xiao, Hongyang Du∗, Kaibin Huang"
-venue: "submitted to IEEE, 2025"
-arxiv: ""
-pdf: ""
-image: "./images/.png"
-summary: "We propose an LLM-Enhanced Spatio-temporal Diffusion Model (LSDM) to achieve SOTA service-level mobile traffic prediction for individual users."
-category: "Network-aided LLM"
