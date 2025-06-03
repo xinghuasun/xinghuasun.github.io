@@ -133,7 +133,29 @@ Highlighted NI<font color=green><b>CE</b></font> Lab Work
 
 *Network-aided LLM Inference:*
 
-1. Feiran You, **Hongyang Du** *(corresponding author)*, Kaibin Huang, and Abbas Jamalipour. ["Network-aided Efficient Large Language Model Services With Denoising-inspired Prompt Compression."](https://arxiv.org/abs/2412.03621), submitted, 2025. <font color=green>We propose Joint Power and Prompt Optimization (JPPO), a framework that combines Small Language Model (SLM)-based prompt compression with wireless power allocation optimization for efficient LLM services.</font>
+{% assign papers_genai = site.data.papers | where: "category", "Network-aided LLM" %}
+{% for paper in papers_genai %}
+<table>
+  <tr>
+    <td width="280">
+      <a href="{{ paper.arxiv }}">
+        <img src="{{ paper.image }}" width="270px">
+      </a>
+    </td>
+    <td>
+      <b>{{ forloop.index }}. {{ paper.title }}</b><br>
+      {{ paper.authors }}<br>
+      {{ paper.venue }}<br>
+      <span style="color:#CC5500"><b>{{ paper.tag | split: ":" | first }}</b>: <i>{{ paper.tag | split: ":" | last | strip }}</i></span><br>
+      <span style="color:green">{{ paper.summary }}</span><br>
+      <img src="accessories/pdf.jpg" width="12"> <a href="{{ paper.pdf }}">PDF</a>
+      {% if paper.code %}
+      | <img src="accessories/github_icon.jpg" width="15"> <a href="{{ paper.code }}">Code</a>
+      {% endif %}
+    </td>
+  </tr>
+</table>
+{% endfor %}
 
 ---
 
