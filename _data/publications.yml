@@ -15,7 +15,7 @@ main:
     conference: NeurIPS 2025 Datasets and Benchmarks Track.
     
     image: ../assets/pub02.png
-    pdf: https://arxiv.org/PDF/2505.16707
+    pdf: https://arxiv.org/pdf/2505.16707
     page: https://yongliang-wu.github.io/kris_bench_project_page/
     bibtex: ../assets/pub02_bibtex.txt
 
