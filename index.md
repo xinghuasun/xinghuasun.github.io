@@ -8,7 +8,7 @@ layout: homepage
 
 I am Xinting Hu. Currently, I am a postdoctoral researcher at [CVMI Lab](https://cvmi.hku.hk/wp-content/uploads/cvmi/index.html), HKU.  
 
-My objective is to develop visual intelligence that can perceive, interpret, and simulate the visual world, with emphasis on: 1) visual learning systems that remain efficient, robust, and continually adaptable; 2) generative modeling with strong multi-view consistency and human controllability; and 3) multimodal intelligence that integrates diverse signals to improve reasoning under real-world settings. Besides, I am interested in leveraging AI to advance scientific and medical research.  
+My objective is to develop visual intelligence that can perceive, interpret, and simulate the visual world, with emphasis on: 1) visual learning systems that remain efficient, robust, and continually adaptable; 2) generative modeling with strong multi-view visual consistency and interactive controllability; and 3) multimodal intelligence that integrates diverse signals to improve reasoning under real-world settings. Besides, I am interested in leveraging AI to advance scientific and medical research.  
 
 Previously, I completed my Ph.D. at [MReal Lab](https://mreallab.github.io/), Nanyang Technological University, and conducted postdoctoral research at [D2](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning), Max Planck Institute for Informatics. Before that, I got a B.Eng. degree from USTC.  My biography is available [here](./assets/CV_en.pdf).  
 
